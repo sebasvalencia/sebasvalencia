@@ -7,7 +7,7 @@
   🏊‍♂️ I’m interested in Coding, Teaching, Sports!
 </p>
 
-<p align="center">
+<p align="center" width="300" >
 😄 Happy Coding!
 </p>
   
