@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **sebasvalencia/sebasvalencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Sebastian Valencia
+- 🧑‍💻 I’m currently workign as a staff engineer
+- 🏊‍♂️ I’m interested in Coding, Teaching, Sports!
+
+😄 Happy Coding!
+  
+  
