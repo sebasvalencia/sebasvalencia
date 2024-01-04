@@ -3,8 +3,8 @@
 </p>
 
 <p align="center" width="300">
-  🧑‍💻 I’m currently workign as a staff engineer <br>
-  🏊‍♂️ I’m interested in Coding, Teaching, Sports!
+  🧑‍💻 I’m currently working as a staff engineer <br>
+  🏊‍♂️ I’m interested in Coding, Hacking, Sports!
 </p>
 
 <p align="center" width="300" >
